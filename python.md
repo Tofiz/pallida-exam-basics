@@ -32,8 +32,10 @@ The application is accepted if:
 
 ###  What is the difference between a function and a method? [2p]
 #### Your answer:
-[add your answer here]
+A function is a callable.
+A method is a special class of function, one that can be bound or unbound. (An unbound method cannot be called.)
+They all look the same, they just have different naming conventions. Under the hood, the objects may look vastly different though.
 
 ### What is the constructor? When it is used? [2p]
 #### Your answer:
-[add your answer here]
+Constructor is basicaly used for initialising the variables at the time of creation of object. Constructors are used for allocating memory space for variables. It is special funtion which getsactivated automatically when object of that class is created.
