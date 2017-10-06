@@ -1,2 +1,6 @@
-dog
-cat
+favourite_animals.py
+kacsa
+bika
+favourite_animals.py
+kacsa
+bika
