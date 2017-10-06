@@ -16,6 +16,30 @@
 # If we buy sugar we can raise the CandyShop's amount of sugar and reduce the income by the price of it.
 # The CandyShop should be represented as string in this format:
 # "Inventory: 3 candies, 2 lollipops, Income: 100, Sugar: 400gr"
+class CandyShop():
+    
+    def __init__(self, sugar, money):
+        self.sugar_in_grams = float(sugar)
+        self.money = money
+
+
+    def buy_sugar():
+        
+
+
+class Storage(CandyShop):
+    sweets = []
+
+    def __init__(self, lollipop, candies):
+    self.lollipop = lollipop
+    self.candie = candie
+    
+    def create():
+
+
+    def sell_sweets():
+    
+
 
 candy_shop = CandyShop(300)
 candy_shop.create_sweets("candy")
